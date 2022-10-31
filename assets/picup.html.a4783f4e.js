@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c9226be6","path":"/picup.html","title":"お手紙ピックアップ","lang":"en-US","frontmatter":{"title":"お手紙ピックアップ","heroText":null,"prev":"./about","next":"./221031"},"excerpt":"","headers":[{"level":2,"title":"高3の私へ","slug":"高3の私へ","link":"#高3の私へ","children":[]}],"git":{"updatedTime":1667228811000},"filePathRelative":"picup.md"}');export{e as data};
