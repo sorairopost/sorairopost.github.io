@@ -1,0 +1,21 @@
+{
+    "name": "空色ポスト -浮かべる想い、たぐる気持ち",
+    "short_name": "空色ポスト",
+    "description": "こちらは香川大学医学部附属病院の中庭の空に投函された手紙の記憶サイトです",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3eaf7c",
+    "icons": [
+      {
+        "src": "/assets/img/images/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/img/images/android-chrome-256x256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }
+    ]
+  }
