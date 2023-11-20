@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0c815afc","path":"/comming_soon.html","title":"空に投函されたお手紙@2023","lang":"en-US","frontmatter":{"title":"空に投函されたお手紙@2023","heroText":null,"prev":"./picup23","next":"./"},"headers":[],"git":{"updatedTime":1700456531000},"filePathRelative":"comming_soon.md"}');export{e as data};
